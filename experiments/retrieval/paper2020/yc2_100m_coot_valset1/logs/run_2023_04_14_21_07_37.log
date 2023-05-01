@@ -1,0 +1,3 @@
+ INFO Running on cuda: False, multi-gpu: False, gpus found: 0, fp16 amp: False.
+ INFO Random seed: None
+ INFO Loading model from checkpoint file provided_models/yc2_100m_coot.pth

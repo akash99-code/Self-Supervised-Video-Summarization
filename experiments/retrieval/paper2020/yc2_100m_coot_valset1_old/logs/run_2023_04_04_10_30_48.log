@@ -1,0 +1,6 @@
+ INFO Running on cuda: False, multi-gpu: False, gpus found: 0, fp16 amp: False.
+ INFO Random seed: None
+ INFO Loading model from checkpoint file provided_models/yc2_100m_coot.pth
+ INFO Saved embeddings to experiments\retrieval\paper2020\yc2_100m_coot_valset1\embeddings\embeddings_0.h5
+
+ INFO Retriev | R@1   | R@5   | R@10  | R@50  | MeanR |  MedR |    Sum
